@@ -5,3 +5,8 @@ You need to play dynamically. If you dont swing it means you are a dead man! It 
 # Gameplay Image
 
 ![sd](https://user-images.githubusercontent.com/72387932/213012565-0c7e0484-1f23-4138-93cb-82aeafa24b60.JPG)
+
+
+# For Trailer
+
+https://youtu.be/8-RYfGqiQZk
